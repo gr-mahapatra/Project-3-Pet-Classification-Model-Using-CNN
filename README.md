@@ -17,4 +17,3 @@ Classify images of pets into two categories: cats and dogs using a Convolutional
 ## 📁 Files
 - `pet_classifier_cnn.ipynb`: CNN model training and evaluation
 - `data/`: Folder structure for train/test images
-- `results/`: Accuracy/loss curves and prediction samples
